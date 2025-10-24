@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/karndeepbaror" target="blank"><img src="https://img.shields.io/twitter/follow/karndeepbaror?logo=twitter&style=for-the-badge" alt="karndeepbaror" /></a> </p>
 
-- 🔭 I’m currently working on [My Startup](github.com/karndeepbaror)
+- 🔭 I’m currently working on [Cryptonic Area](github.com/karndeepbaror)
 
 - 🌱 I’m currently learning **Python , JavaScript, Pentesting**
 
