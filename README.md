@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Karndeep Baror</h1>
 <h3 align="center">A passionate Ethical Hacker from India</h3>
-![Uploading InShot_20251024_181535830.gif…]()
+
+![InShot_20251024_181535830](https://github.com/user-attachments/assets/a0a734fd-7fa9-43cc-86ce-644a50f48cec)
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karndeepbaror&label=Profile%20views&color=0e75b6&style=flat" alt="karndeepbaror" /> </p>
