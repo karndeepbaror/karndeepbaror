@@ -12,10 +12,10 @@
 ```css
 [INITIALIZING_CORE]: Accessing secure mainframe...
 ╔══════════════════════════════════════════════╗
-║ OPERATIVE    : KDO [SHADOW_PROTOCOL]         ║
-║ DESIGNATION  : Digital Warfare Specialist    ║
-║ UNIT        : Team Illusion Elite            ║
-║ THREAT_LEVEL: Critical                       ║
+║ OPERATIVE    : Karndeep Baror                ║
+║ Profession   : Ethical Hacker & Bug Hunter   ║
+║ UNIT         : Team Cryptonic Area           ║
+║ THREAT LEVEL: Critical                       ║
 ╚══════════════════════════════════════════════╝
 ```
 
@@ -29,13 +29,13 @@ COMBAT_CAPABILITIES:
     - 'JavaScript | PHP [Web Exploitation]'
   
   Advanced_Toolset:
-    offensive: ['Metasploit', 'Burp Suite Pro', 'Cobalt Strike']
-    recon: ['Nmap', 'Wireshark', 'Custom Tooling']
+    offensive: ['Metasploit', 'Burp Suite', 'Sqlmap']
+    recon: ['Nmap', 'Wireshark', 'Aircrack-ng']
     
   Elite_Operations:
-    - Advanced Penetration Testing
-    - Zero-Day Research & Development
-    - APT Simulation & Analysis
+    - Penetration Testing
+    - Digital Forensics & Bug Hunting 
+    - Cyber Crime Investigator 
 ```
 
 ### ⚔️ Battle Parameters
@@ -50,21 +50,21 @@ class OperationalMatrix:
 ```
 
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kdo2064&theme=chartreuse-dark" alt="Battle Records"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=karndeepbaror &theme=chartreuse-dark" alt="Battle Records"/>
 </div>
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=kdo2064&theme=matrix&no-frame=true&row=1&column=7" alt="War Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=karndeepbaror &theme=matrix&no-frame=true&row=1&column=7" alt="War Trophies"/>
 </div>
 
 ### ⚡ Combat Statistics
 <p align="center">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kdo2064&show_icons=true&theme=chartreuse-dark" alt="Operation Stats"/>
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdo2064&layout=compact&theme=chartreuse-dark" alt="Arsenal Stats"/>
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=karndeepbaror &show_icons=true&theme=chartreuse-dark" alt="Operation Stats"/>
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karndeepbaror &layout=compact&theme=chartreuse-dark" alt="Arsenal Stats"/>
 </p>
 
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kdo2064&theme=chartreuse-dark" alt="Tactical Map"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=karndeepbaror &theme=chartreuse-dark" alt="Tactical Map"/>
 </div>
 
 ```shell
@@ -77,7 +77,7 @@ class OperationalMatrix:
     <img src="https://img.shields.io/badge/DEFCON-LEVEL_1-FF0000?style=for-the-badge&logo=danger"/>
     <br>
     <i>"In the realm of bytes and bits, we are the architects of chaos and order."</i>
-    <br>- KDO
+    <br>- Karndeep Baror 
 </div>
 
 <p align="center">
