@@ -4,7 +4,7 @@
 
 <p align="center">
     <img src="https://img.shields.io/badge/Threat_Level-Maximum-ff0000?style=for-the-badge&logo=hackaday"/>
-    <img src="https://img.shields.io/badge/Team-Illusion-000000?style=for-the-badge&logo=ethereum"/>
+    <img src="https://img.shields.io/badge/Team-CryptonicArea-000000?style=for-the-badge&logo=ethereum"/>
     <img src="https://img.shields.io/badge/Status-Engaged-00ff00?style=for-the-badge&logo=hackthebox"/>
 </p>
 
