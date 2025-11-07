@@ -11,12 +11,13 @@
 ### ⚡ System Override
 ```css
 [INITIALIZING_CORE]: Accessing secure mainframe...
-╔══════════════════════════════════════════════╗
-║ OPERATIVE    : Karndeep Baror                ║
-║ Profession   : Ethical Hacker & Bug Hunter   ║
-║ UNIT         : Team Cryptonic Area           ║
-║ THREAT LEVEL: Critical                       ║
-╚══════════════════════════════════════════════╝
+┌──(karndeepbaror㉿cryptonicarea)-[~/about]
+└─$ whoami --profile
+
+> Founder & CEO of Cryptonic Area 
+> Cybersecurity Expert | Ethical Hacker | Bug Hunter
+> Junior Cyber Crime Investigator 
+> Cyber Security Consultant 
 ```
 
 ### 🎯 Tactical Arsenal
