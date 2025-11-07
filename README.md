@@ -10,7 +10,6 @@
 
 ### ⚡ System Override
 ```css
-[INITIALIZING_CORE]: Accessing secure mainframe...
 ┌──(karndeepbaror㉿cryptonicarea)-[~/about]
 └─$ whoami --profile
 
