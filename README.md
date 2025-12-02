@@ -14,7 +14,7 @@
   </p>
 </div>
 
-https://github.com/user-attachments/assets/74c087f6-b955-4744-b365-6af07d95cb86
+![InShot_20251202_185101583](https://github.com/user-attachments/assets/c2205e13-fe43-418f-8993-f2b61d16ec87)
 
 ****💫 About Me:****
 
