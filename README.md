@@ -14,8 +14,6 @@
   </p>
 </div>
 
-![InShot_20251202_185101583](https://github.com/user-attachments/assets/c2205e13-fe43-418f-8993-f2b61d16ec87)
-
 ****💫 About Me:****
 
 🔭 I’m currently working on Building Community <br>👯 I’m looking to collaborate on GitHub <br>🌱 I’m currently learning Penetrations Testing & Bug Hunting <br>💬 Ask me about Cyber Security <br>⚡ Fun fact I'm a Ethical Hacker 
