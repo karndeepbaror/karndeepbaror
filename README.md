@@ -27,6 +27,11 @@
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
 
+****🏆 Trophies:****
+
+![](https://github-profile-trophy.vercel.app/?username=karndeepbaror&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
 ****📊 GitHub Stats:*****
 
 ![](https://github-readme-stats.vercel.app/api?username=karndeepbaror&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
