@@ -4,7 +4,7 @@
   <div align="center">
     <img src="https://img.shields.io/badge/Cryptonic_Area-Founder_And_CEO-00FF96?style=for-the-badge&logo=shield&logoColor=white"/>
     <a href="hh">
-      <img src="https://img.shields.io/badge/Company-CryptonicArea.in-00B3FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Domain-Pen Testing-00B3FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
     </a>
     <img src="https://komarev.com/ghpvc/?username=karndeepbaror&style=for-the-badge&color=00CE81&label=PROFILE+VIEWS"/>
   </div>
