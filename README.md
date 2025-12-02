@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:20232a&height=200&section=header&text=Rahi%20Patel&fontSize=60&fontColor=00FF96&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Expert%20|%20Founder%20And%20CEO&descAlignY=52&descSize=16" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:20232a&height=200&section=header&text=Karndeep%20Baror&fontSize=60&fontColor=00FF96&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Expert%20|%20Founder%20And%20CEO&descAlignY=52&descSize=16" width="100%">
 
   <div align="center">
-    <img src="https://img.shields.io/badge/Secure_With_Techies-Founder_And_CEO-00FF96?style=for-the-badge&logo=shield&logoColor=white"/>
-    <a href="https://securewithtechies.com">
-      <img src="https://img.shields.io/badge/WEBSITE-securewithtechies.com-00B3FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Cryptonic_Area-Founder_And_CEO-00FF96?style=for-the-badge&logo=shield&logoColor=white"/>
+    <a href="hh">
+      <img src="https://img.shields.io/badge/Company-CryptonicArea.in-00B3FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
     </a>
-    <img src="https://komarev.com/ghpvc/?username=rahipatel1285&style=for-the-badge&color=00CE81&label=PROFILE+VIEWS"/>
+    <img src="https://komarev.com/ghpvc/?username=karndeepbaror&style=for-the-badge&color=00CE81&label=PROFILE+VIEWS"/>
   </div>
   
   <p align="center">
