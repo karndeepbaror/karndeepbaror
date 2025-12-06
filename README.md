@@ -16,7 +16,7 @@
 
 ****💫 About Me:****
 
-🔭 I’m currently working on Building Community <br>👯 I’m looking to collaborate on GitHub <br>🌱 I’m currently learning Penetrations Testing & Bug Hunting <br>💬 Ask me about Cyber Security <br>⚡ Fun fact I'm a Ethical Hacker 
+🔭 I’m currently working on Building Tools/Projects <br>👯 I’m looking to collaborate on GitHub <br>🌱 I’m currently learning Penetrations Testing & Bug Hunting <br>💬 Ask me about Cyber Security <br>⚡ Fun fact I'm a Ethical Hacker 
 
 ****🌐 Socials:****
 
