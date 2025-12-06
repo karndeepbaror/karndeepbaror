@@ -14,17 +14,23 @@
   </p>
 </div>
 
+<div align="center">
+    <a href="https://www.instagram.com/karndeepbaror/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=red&color=black" alt="Instagram Badge"/></a>
+    <a href="https://youtube.com/@cryptarea"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=red&color=black" alt="YouTube Badge"/></a>
+    <a href="https://t.me/CryptonicArea"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=red&color=black" alt="Telegram Badge"/></a>
+</div>
+
+
+
 ****💫 About Me:****
 
 🔭 I’m currently working on Building Tools/Projects <br>👯 I’m looking to collaborate on GitHub <br>🌱 I’m currently learning Penetrations Testing & Bug Hunting <br>💬 Ask me about Cyber Security <br>⚡ Fun fact I'm a Ethical Hacker 
 
-****🌐 Socials:****
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/karndeepbaror) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/karndeepbaror) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@karndeepbaror) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cryptonicarea@gmail.com) 
 
 ****💻 Tech Stack:****
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
+
 
 ****📊 GitHub Stats:****
 
