@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:20232a&height=200&section=header&text=Karndeep%20Baror&fontSize=60&fontColor=00FF96&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Expert%20|%20Founder%20And%20CEO&descAlignY=52&descSize=16" width="100%">
 
   <div align="center">
-    <img src="https://img.shields.io/badge/Cryptonic_Area-Founder_And_CEO-00FF96?style=for-the-badge&logo=shield&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Domain-Cyber_Crime_Investigator-00FF96?style=for-the-badge&logo=shield&logoColor=white"/>
     <a href="hh">
       <img src="https://img.shields.io/badge/Domain-Pen Testing-00B3FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
     </a>
