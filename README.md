@@ -218,7 +218,7 @@ If my tools or research ever helped you, a ⭐ on my repositories goes a long wa
 
 <p>
 <a href="https://www.instagram.com/karndeepbaror/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117"/></a>
-<a href="https://youtube.com/@cryptarea"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0d1117"/></a>
+<a href="https://youtube.com/@CryptonicArea"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0d1117"/></a>
 <a href="https://t.me/CryptonicArea"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117"/></a>
 <a href="https://x.com/cryptonicarea"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117"/></a>
 <a href="https://github.com/karndeepbaror"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/></a>
