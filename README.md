@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:0f2027,65:0a3d2e,100:00FF96&height=280&section=header&text=KARNDEEP%20BAROR&fontSize=68&fontColor=00FF96&animation=twinkling&fontAlignY=36&desc=Cybersecurity%20Expert%20%E2%80%A2%20Cyber%20Crime%20Investigator%20%E2%80%A2%20Founder%2C%20Cryptonic%20Area&descAlignY=54&descSize=17&descColor=00E5FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:0f2027,65:0a3d2e,100:00FF96&height=280&section=header&text=KARNDEEP%20BAROR&fontSize=68&fontColor=00FF96&animation=twinkling&fontAlignY=36&desc=Cybersecurity%20%20%E2%80%A2%20Cyber%20Crime%20Investigator%20%E2%80%A2%20Founder%2C%20Cryptonic%20Area&descAlignY=54&descSize=17&descColor=00E5FF" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2400&pause=900&color=00FF96&center=true&vCenter=true&multiline=true&repeat=true&width=920&height=100&lines=Digital%27s+Phantom+That+Strikes+Without+Warning+.%21;Securing+Systems+by+Day%2C+Hunting+Threats+by+Night;Ethical+Hacker+%7C+Bug+Hunter+%7C+Cyber+Crime+Investigator;Founder+%40+Cryptonic+Area+%E2%80%94+Empowering+Digital+Defenders" alt="Typing SVG"/>
 
