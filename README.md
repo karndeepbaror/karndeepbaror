@@ -59,11 +59,7 @@ whoami:
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:0a3d2e&height=140&section=header&text=CRYPTONIC%20AREA&fontSize=38&fontColor=00FF96&animation=fadeIn&fontAlignY=42&desc=Empowering%20The%20Digital%20Defenders&descAlignY=68&descColor=00E5FF&descSize=15" width="100%"/>
 
-I'm the **founder and builder** behind **Cryptonic Area** — an industry-leading cyber security
-community and training ecosystem, nurturing the next generation of digital defenders through
-professional VAPT programs, global CTF challenges, live workshops, and real-world industrial
-mentorship. Everything from the platform's architecture to its security tooling is designed
-and built end-to-end by me.
+I'm the **founder and builder** behind **Cryptonic Area** — is a cybersecurity and technology-focused community dedicated to practical learning, hands-on projects, and skill development. Through workshops, collaborative initiatives, expert-led sessions, and real-world exposure, we help individuals build industry-relevant knowledge and technical expertise.
 
 <br/>
 
