@@ -28,14 +28,14 @@
 ```yaml
 whoami:
   name:        "Karndeep Baror"
-  role:        ["Cybersecurity Expert", "Ethical Hacker", "Cyber Crime Investigator"]
+  role:        ["Security Researcher", "Pentester", "Cyber Crime Investigator"]
   founder_of:  "Cryptonic Area"
   currently:
     - 🔭 Building tools & offensive-security projects
     - 🌱 Deepening skills in Penetration Testing & Bug Hunting
     - 🕵️ Investigating and analyzing real-world cyber crime cases
     - 👯 Open to collaborating on impactful GitHub projects
-    - 💬 Ask me about Cyber Security, VAPT & Threat Analysis
+    - 💬 Ask me about Cyber Security, Cybercrime Investigation & Threat Analysis
     - ⚡ Fun fact: I break systems so criminals can't.
   status:      "🟢 online — accepting collabs"
 ```
